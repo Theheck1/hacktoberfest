@@ -1,2 +1,0 @@
-# hacktoberfest
-1
